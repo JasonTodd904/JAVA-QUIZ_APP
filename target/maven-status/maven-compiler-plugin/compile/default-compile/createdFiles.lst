@@ -1,0 +1,6 @@
+com\myapp\quiz_app\controller\AuthController.class
+com\myapp\quiz_app\service\UserService.class
+com\myapp\quiz_app\dto\AuthUser.class
+com\myapp\quiz_app\repository\UserRepository.class
+com\myapp\quiz_app\model\User.class
+com\myapp\quiz_app\QuizAppApplication.class
